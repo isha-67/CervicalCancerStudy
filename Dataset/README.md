@@ -1,0 +1,1 @@
+This repository contains the SIPaKMeD dataset, which is used for the classification of cervical cancer in medical imaging. The dataset is a collection of annotated images specifically curated for research purposes in the field of medical image analysis.
